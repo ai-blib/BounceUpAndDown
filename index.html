@@ -42,15 +42,24 @@
         <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="99"></canvas>
       </div>
     </div>
-  
-<!-- Polyfills bundle. -->
+
+  <script src="cocos-js/cc.caed6.js" charset="utf-8"> </script>
+  <script src="cocos-js/bullet.cocos-f9b03b71.js" charset="utf-8"> </script>
+  <script src="cocos-js/bullet.wasm-58c96a9f.js" charset="utf-8"> </script>
+  <script src="cocos-js/instantiated-7aac930c.js" charset="utf-8"> </script>
+  <script src="cocos-js/wait-for-ammo-instantiation.5a16a.js" charset="utf-8"> </script>
+
+  <!-- Polyfills bundle. -->
 <script src="src/polyfills.bundle.b12d4.js" charset="utf-8"> </script>
 
 <!-- SystemJS support. -->
 <script src="src/system.bundle.692e9.js" charset="utf-8"> </script>
 
-<!-- Import map -->
-<script src="src/import-map.57758.json" type="systemjs-importmap" charset="utf-8"> </script>
+  <script src="src/polyfills.bundle.b12d4.js" charset="utf-8"> </script>
+
+
+  <!-- Import map -->
+<script src="src/import-map.4cf32.json" type="systemjs-importmap" charset="utf-8"> </script>
 
 <script>
     System.import('./index.639f7.js').catch(function(err) { console.error(err); })
