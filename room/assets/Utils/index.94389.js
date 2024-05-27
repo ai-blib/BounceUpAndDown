@@ -1,7 +1,7 @@
-System.register("chunks:///Base.js",["./ResourceManager-de4f1d1d.js","cc","./index-6eaaed8c.js","./State-84aab6fd.js","./index-d139aad2.js"],(function(){"use strict";return{setters:[null,null,null,null,null],execute:function(){}}}));
+System.register("chunks:///Utils.js",["cc","./index-f150e2cd.js"],(function(){"use strict";return{setters:[null,null],execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/Base', 'chunks:///Base.js'); 
+  r('virtual:///prerequisite-imports/Utils', 'chunks:///Utils.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

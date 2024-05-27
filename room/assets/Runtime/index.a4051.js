@@ -1,4 +1,4 @@
-System.register("chunks:///Runtime.js",["./ResourceManager-de4f1d1d.js","cc","./index-d139aad2.js","./FaderManager-41fa1fe6.js"],(function(){"use strict";return{setters:[null,null,null,null],execute:function(){}}}));
+System.register("chunks:///Runtime.js",["./FaderManager-8f6e2d8b.js","cc","./index-f150e2cd.js"],(function(){"use strict";return{setters:[null,null,null],execute:function(){}}}));
 
 (function(r) {
   r('virtual:///prerequisite-imports/Runtime', 'chunks:///Runtime.js'); 
