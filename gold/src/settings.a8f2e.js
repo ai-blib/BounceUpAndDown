@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default","jiazi","item"],collisionMatrix:[[true,true,true],[true,false,true],[true,true,true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/LoadScene.fire",orientation:"",jsList:[],bundleVers:{internal:"d0832",resources:"1e1dd",main:"7de1a"}};
